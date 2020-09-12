@@ -1,6 +1,12 @@
 gem 
 hello
+<<<<<<< HEAD
 ffefe444
 tnootest
 test3
 rr4
+=======
+ffefe
+test
+ddddd
+>>>>>>> e3aa1f11f6a11fe91ecd3e0185089a039a44c300
